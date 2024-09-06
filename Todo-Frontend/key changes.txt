@@ -1,0 +1,5 @@
+Key Changes:
+JWT-based Authentication: The app checks for a valid token and only allows authenticated users to manage tasks.
+Axios: Used for cleaner API calls with error handling.
+Toast Notifications: Provides better feedback to users for success and error messages.
+Material-UI: You can further implement it for better form and button components.
